@@ -45,3 +45,11 @@
   targetNode: gogglesJamJarDiag
   category: construction-category-clothing
   objectType: Item
+
+- type: construction
+  id: JanitorialMantle
+  graph: JaniMantleGraph
+  startNode: start
+  targetNode: janiMantle
+  category: construction-category-clothing
+  objectType: Item
