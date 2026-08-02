@@ -842,5 +842,3 @@
       color: "#D8BFD8FF" # Cleanhud has a purple hue and it clashes and makes NV almost white, so I set it to purple so there's no longer any colour conflicts when both are toggled at the same time.
     - type: JaniVision
       isEquipment: true
-  - type: Construction
-    graph: JaniMantleGraph

@@ -1,3 +1,4 @@
+color 2
 REM SPDX-FileCopyrightText: 2018 DamianX <DamianX@users.noreply.github.com>
 REM SPDX-FileCopyrightText: 2019 Silver <Silvertorch5@gmail.com>
 REM SPDX-FileCopyrightText: 2019 clusterfack <8516830+clusterfack@users.noreply.github.com>
