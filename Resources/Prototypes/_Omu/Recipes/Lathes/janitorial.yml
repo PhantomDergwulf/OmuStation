@@ -2,3 +2,15 @@
   parent: ClothingEyesHudSecurity
   id: ClothingEyesHudJanitorial
   result: ClothingEyesHudJanitorial
+
+
+- type: latheRecipe
+  parent: ClothingEyesHudSecurity
+  id: ClothingCyberneticBeastMantleJanitor
+  result: ClothingCyberneticBeastMantleJanitor
+  completetime: 15
+  materials:
+    Steel: 2300
+    Glass: 1200
+    Silver: 1000
+    Gold: 1000

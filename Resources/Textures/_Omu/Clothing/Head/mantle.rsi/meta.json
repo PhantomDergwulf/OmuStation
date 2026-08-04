@@ -201,6 +201,17 @@
     {
       "name": "inhand-right",
       "directions": 4
+    },
+    {
+        "name": "eyes-ert-sec",
+        "directions": 4
+    },
+    {
+        "name": "helmet-ert-sec",
+        "directions": 4
+    },
+    {
+        "name": "icon-ert-sec"
     }
   ]
 }

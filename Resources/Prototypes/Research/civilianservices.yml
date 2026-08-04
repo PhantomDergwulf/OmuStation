@@ -228,7 +228,7 @@
   - MegaSprayBottle
   - BorgModuleAdvancedCleaning
   - ClothingEyesHudJanitorial # Omu
-  - ClothingHeadMantleJanitorial # Omu
+  - ClothingCyberneticBeastMantleJanitor # Omu
   # Goobstation R&D Console rework start
   position: -1,4
   technologyPrerequisites:
