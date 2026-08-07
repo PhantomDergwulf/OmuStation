@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Sprites by elixirboi (a.k.a. Skiis) on Discord, edited by MarkerWicker on Github --- Icons heavily by Marikiii, Chem, CMO, Corpsman, CC, CE, QM, HoS and RD by Marikiii using other mantles.",
+  "copyright": "Sprites by elixirboi (a.k.a. Skiis) on Discord, edited by MarkerWicker on Github --- Icons heavily by Marikiii, Chem, CMO, Corpsman, CC, CE, QM, HoS and RD by Marikiii using other mantles. ERT mantles designed by Patarata on Discord, Jani, Bar and Roboticist done by PhantomDergwulf",
   "size": {
     "x": 32,
     "y": 32
@@ -58,6 +58,9 @@
     {
       "name": "icon-hos"
     },
+    {
+        "name": "icon-ert-sec"
+    },	
     {
       "name": "helmet",
       "directions": 4
@@ -123,6 +126,10 @@
       "directions": 4
     },
     {
+        "name": "helmet-ert-sec",
+        "directions": 4
+    },	
+    {
       "name": "eyes",
       "directions": 4
     },
@@ -187,6 +194,10 @@
       "directions": 4
     },
     {
+        "name": "eyes-ert-sec",
+        "directions": 4
+    },
+    {
       "name": "helmet-internals",
       "directions": 4
     },
@@ -202,16 +213,27 @@
       "name": "inhand-right",
       "directions": 4
     },
-    {
-        "name": "eyes-ert-sec",
+	{
+        "name": "eyes-robo",
         "directions": 4
     },
     {
-        "name": "helmet-ert-sec",
+        "name": "helmet-robo",
         "directions": 4
     },
     {
-        "name": "icon-ert-sec"
+        "name": "icon-robo"
+    },
+	{
+        "name": "eyes-janitor",
+        "directions": 4
+    },
+    {
+        "name": "helmet-janitor",
+        "directions": 4
+    },
+    {
+        "name": "icon-janitor"
     }
   ]
 }
