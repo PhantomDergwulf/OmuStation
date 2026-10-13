@@ -278,7 +278,8 @@
     Cough:
       collection: FemaleCoughs
     Yawn:
-      collection: FemaleYawn
+#      collection: FemaleYawn # Omu - Ported Vulpyawn from Wizden
+       collection: VulpkaninYawns # Omu - Ported Vulpyawn from Wizden
     Snore:
       collection: Snores
     Honk:
@@ -338,7 +339,8 @@
     Cough:
       collection: MaleCoughs
     Yawn:
-      collection: MaleYawn
+#      collection: MaleYawn # Omu - Ported Vulpyawn from Wizden
+      collection: VulpkaninYawns # Omu - Ported Vulpyawn from Wizden
     Snore:
       collection: Snores
     Honk:
