@@ -288,6 +288,8 @@
           min: 50
 
 
+
+
 - type: reagent
   id: Gekkerzine
   name: reagent-name-gekkerzine
@@ -298,7 +300,6 @@
   color: "#8700ff"
   metabolisms:
     Poison:
-      metabolismRate: 0.15
       effects:
       - !type:Emote
         emote: Gekker
